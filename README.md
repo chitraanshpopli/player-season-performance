@@ -14,7 +14,7 @@ Steps to obtain original table:
 
 Now run main.py and paste path to the downloaded file.
 
-##Todo
+## Todo
 Will add ability to create simple bar charts soon.
 
 ### Note:
