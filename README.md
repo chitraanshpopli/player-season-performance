@@ -21,3 +21,4 @@ Will add ability to create simple bar charts soon.
 1. Original file is changed. Keep a backup if you need the original file as well.
 2. All float values are rounded off to 2 digits of decimal.
 3. Whoscored does not have data for National cups.
+#### 4. Table has to be copied correctly. Any missing cells will result in wrong data in the output. 
