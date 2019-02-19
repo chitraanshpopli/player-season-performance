@@ -14,6 +14,9 @@ Steps to obtain original table:
 
 Now run main.py and paste path to the downloaded file.
 
+##Todo
+Will add ability to create simple bar charts soon.
+
 ### Note:
 1. Original file is changed. Keep a backup if you need the original file as well.
 2. All float values are rounded off to 2 digits of decimal.
