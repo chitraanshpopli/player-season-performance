@@ -167,8 +167,8 @@ def main():
     df = final_cleanup(df)
     print(df)
 
-    excel_path =  csv_path
-    df.to_csv(excel_path)
+    csv_path
+    df.to_csv(csv_path)
     with open(csv_path, 'a') as mf:
         mf.write('\nList of all tournaments:')
         mf.write(str(tournaments))
